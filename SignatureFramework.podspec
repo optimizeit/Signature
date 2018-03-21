@@ -37,6 +37,6 @@ Pod::Spec.new do |s|
   
   # s.requires_arc = true
 
-  s.dependency "ProjectOxfordFace"
+  s.dependency "ACEDrawingView"
 
 end
